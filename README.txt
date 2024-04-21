@@ -1,0 +1,1 @@
+Project for Northeastern Univ. course credit aiming to classify individuals most likely to develop heart disease using various ML techniques.
